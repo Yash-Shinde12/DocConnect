@@ -72,8 +72,3 @@ The *Doctor Appointment System* is a full-stack web application designed to simp
 - MongoDB database setup  
 - NPM or Yarn package manager  
 
-### Steps  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-repo/doctor-appointment-system.git
-   cd doctor-appointment-system
